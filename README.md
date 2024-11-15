@@ -48,15 +48,18 @@ For a comprehensive list of tornadoes in Australia, refer to the [List of Austra
 
 ### Tornado Occurrences by Month
 
-![Tornado Occurrences by Month](attachment:/mnt/data/output(2).png)
+![month](https://github.com/user-attachments/assets/b034137b-b1b3-4f7f-8351-0af35dd7639f)
+
 
 ### Years with the Most Costly Tornadoes
 
-![Years with the Most Costly Tornadoes](attachment:/mnt/data/output(3).png)
+![output(3)](https://github.com/user-attachments/assets/3af2d4b8-1280-4cfe-a06c-f3dc68dcb92c)
+
 
 ### Tornado Occurrences by State
 
-![Tornado Occurrences by State](attachment:/mnt/data/output(4).png)
+![state](https://github.com/user-attachments/assets/7c3f0132-f502-46a2-af8a-48aafff2914e)
+
 
 ## Troubleshooting Tips
 
