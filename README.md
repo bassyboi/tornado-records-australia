@@ -60,6 +60,19 @@ For a comprehensive list of tornadoes in Australia, refer to the [List of Austra
 
 ![state](https://github.com/user-attachments/assets/7c3f0132-f502-46a2-af8a-48aafff2914e)
 
+## Why Tornadoes Are Often Observed Around Cities
+
+Tornadoes may seem more common around cities due to several factors:
+
+1. **Observation and Reporting**: Urban areas have a higher population density, leading to more frequent observation and reporting of tornadoes compared to rural or remote areas.
+2. **Infrastructure and Damage Visibility**: The extensive infrastructure in cities makes tornado damage more visible and impactful, increasing the likelihood of documentation.
+3. **Proximity to Weather Stations**: Cities often have more weather stations and monitoring systems, leading to better detection of severe weather events.
+
+## Why Tornadoes Are Less Frequently Observed in Some Regions
+
+1. **Sparse Population**: Remote or sparsely populated areas may experience tornadoes that go unreported due to a lack of observers.
+2. **Limited Monitoring Infrastructure**: Regions with fewer weather stations may not detect or confirm tornado activity as effectively.
+3. **Geographical and Climatic Factors**: Some areas naturally have less favorable conditions for tornado formation, reducing their frequency.
 
 ## Troubleshooting Tips
 
