@@ -21,11 +21,6 @@ This guide will help you add and view KML files in Google Earth Pro. For instanc
 2. Select the KML file (e.g., `tornado_locations_with_details.kml`).
 3. Click **Open**.
 
-1. Navigate to the location where your KML file is saved on your computer.
-   - Example: If you downloaded the KML file, it might be in your "Downloads" folder.
-2. Select the KML file (e.g., `tornado_locations_with_details.kml`).
-3. Click **Open**.
-
 ### Step 4: View the Data
 
 1. The KML file's content will load into the "Places" panel on the left side of the Google Earth Pro interface.
@@ -48,6 +43,20 @@ Australia experiences approximately 30 to 80 tornadoes annually, although the ac
 - **2016 South Australia Tornado Outbreak**: At least seven tornadoes occurred on September 28, 2016, leading to a state-wide power outage.
 
 For a comprehensive list of tornadoes in Australia, refer to the [List of Australia Tornadoes](https://en.wikipedia.org/wiki/List_of_Australia_tornadoes).
+
+## Visual Data on Tornado Occurrences
+
+### Tornado Occurrences by Month
+
+![Tornado Occurrences by Month](attachment:/mnt/data/output(2).png)
+
+### Years with the Most Costly Tornadoes
+
+![Years with the Most Costly Tornadoes](attachment:/mnt/data/output(3).png)
+
+### Tornado Occurrences by State
+
+![Tornado Occurrences by State](attachment:/mnt/data/output(4).png)
 
 ## Troubleshooting Tips
 
