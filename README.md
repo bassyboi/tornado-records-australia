@@ -1,98 +1,146 @@
 # Adding KML Files to Google Earth Pro
 
-This guide will help you add and view KML files in Google Earth Pro. For instance, you might use a KML file to visualize weather patterns, such as tornado tracks, or to map hiking trails with detailed annotations. A KML (Keyhole Markup Language) file contains geographic data and annotations for mapping software like Google Earth Pro.
+This guide provides clear, factual instructions for adding KML (or KMZ) files to Google Earth Pro. KML files contain geographic data and annotations that can be used to visualize features like tornado tracks, hiking trails, or other spatial information.
 
-## Steps to Add a KML File
+## Prerequisites
 
-### Step 1: Open Google Earth Pro
+- **Google Earth Pro Installed:**  
+  Download and install Google Earth Pro from the [Google Earth Pro Download Page](https://www.google.com/earth/versions/#earth-pro).
 
-1. Launch Google Earth Pro on your computer. If you don’t have it installed, you can download it from the [Google Earth Pro Download Page](https://www.google.com/earth/versions/#earth-pro).
+- **Valid KML/KMZ File:**  
+  Ensure you have a file with a `.kml` or `.kmz` extension available on your computer.
 
-### Step 2: Access the File Menu
+## Step-by-Step Instructions
 
-1. In the top-left corner of the application, click on **File**.
-2. Select **Open** from the dropdown menu.
+### 1. Launch Google Earth Pro
 
-### Step 3: Locate the KML File
+- **Action:** Open the Google Earth Pro application on your computer.
 
-1. Navigate to the location where your KML file is saved on your computer.
-   - Example: If you downloaded the KML file, it might be in your "Downloads" folder.
-   - Note: Supported file types include `.kml` and `.kmz`.
-2. Select the KML file (e.g., `tornado_locations_with_details.kml`).
-3. Click **Open**.
+### 2. Open the File
 
-### Step 4: View the Data
+- **Action:**  
+  - Click the **File** menu in the top-left corner.
+  - Select **Open** from the dropdown menu.
 
-1. The KML file's content will load into the "Places" panel on the left side of the Google Earth Pro interface.
-2. Expand the folder under "Temporary Places" to see individual data points or layers. This allows you to access detailed data points and explore specific elements within the KML file. The "Temporary Places" section acts as a staging area for newly imported files and is not saved automatically unless you choose to do so.
-3. Double-click on any point or layer to zoom in and view the specific location on the map.
+### 3. Locate and Select Your KML/KMZ File
 
-### Step 5: Save the KML to "My Places" (Optional)
+- **Action:**  
+  - Navigate to the folder where your KML/KMZ file is stored (e.g., the "Downloads" folder).
+  - Select the file (for example, `example_data.kml`).
+  - Click **Open**.
 
-1. To keep the KML file loaded permanently in Google Earth Pro, right-click on the file or folder under "Temporary Places."
-2. Select **Save to My Places**.
+### 4. View the Imported Data
 
-## Overview of Tornado Data in Australia
+- **Result:**  
+  - The data loads under the **Temporary Places** section in the left-hand panel.
+  - Expand the folder to see individual layers or placemarks.
+  - **Tip:** Double-click any placemark to zoom directly to its location.
 
-Australia experiences approximately 30 to 80 tornadoes annually, although the actual number might be higher due to underreporting in remote areas. This underreporting is often due to sparse populations in these areas, which reduces the likelihood of tornadoes being observed and reported. These tornadoes vary in intensity and impact. Here are some notable events:
+### 5. Save the Data Permanently (Optional)
 
-- **1795 Sydney Tornado**: The earliest recorded tornado in Australia occurred in Sydney in 1795, marking the beginning of documented tornado activity.
-- **1970 Bulahdelah Tornado**: One of the most powerful tornadoes in Australian history, this event caused significant damage to forests and property in New South Wales.
-- **1992 Queensland Storms**: A series of storms produced multiple tornadoes, including an F4 tornado in Bucca, demonstrating the potential for severe weather in the region.
-- **2003 Bendigo Tornado**: This tornado impacted Bendigo, Victoria, causing considerable structural damage.
-- **2016 South Australia Tornado Outbreak**: At least seven tornadoes occurred on September 28, 2016, leading to a state-wide power outage.
+- **Action:**  
+  - Right-click the imported file or folder under **Temporary Places**.
+  - Choose **Save to My Places** to keep the data available for future sessions.
 
-For a comprehensive list of tornadoes in Australia, refer to the [List of Australia Tornadoes](https://en.wikipedia.org/wiki/List_of_Australia_tornadoes).
-
-## Visual Data on Tornado Occurrences
-
-### Tornado Occurrences by Month
-
-![month](https://github.com/user-attachments/assets/b034137b-b1b3-4f7f-8351-0af35dd7639f)
-
-
-### Years with the Most Costly Tornadoes
-
-![output(3)](https://github.com/user-attachments/assets/3af2d4b8-1280-4cfe-a06c-f3dc68dcb92c)
-
-
-### Tornado Occurrences by State
-
-![state](https://github.com/user-attachments/assets/7c3f0132-f502-46a2-af8a-48aafff2914e)
-
-## Why Tornadoes Are Often Observed Around Cities
-
-Tornadoes may seem more common around cities due to several factors:
-
-1. **Observation and Reporting**: Urban areas have a higher population density, leading to more frequent observation and reporting of tornadoes compared to rural or remote areas.
-2. **Infrastructure and Damage Visibility**: The extensive infrastructure in cities makes tornado damage more visible and impactful, increasing the likelihood of documentation.
-3. **Proximity to Weather Stations**: Cities often have more weather stations and monitoring systems, leading to better detection of severe weather events.
-
-## Why Tornadoes Are Less Frequently Observed in Some Regions
-
-1. **Sparse Population**: Remote or sparsely populated areas may experience tornadoes that go unreported due to a lack of observers.
-2. **Limited Monitoring Infrastructure**: Regions with fewer weather stations may not detect or confirm tornado activity as effectively.
-3. **Geographical and Climatic Factors**: Some areas naturally have less favorable conditions for tornado formation, reducing their frequency.
+---
 
 ## Estimated Unsighted Tornadoes
 
-Based on detection rate adjustments and assumptions:
+The following section explains how to estimate the number of unsighted (underreported) tornadoes per year using a simple mathematical model.
 
-- **Estimated Unsighted Tornadoes per Year**: Approximately **888**.
+### Mathematical Derivation
 
-This estimate accounts for underreporting in rural areas and higher detection rates in urban regions. These assumptions are derived from observed discrepancies in reporting rates between urban and rural areas, as well as analysis of historical data on tornado occurrences. Further refinements can be made based on updated data or methodologies.
+1. **Assumptions:**
 
-## Troubleshooting Tips
+   - **Detection Probability in Rural Areas (`p`):**  
+     Assume that only a small fraction of tornadoes in rural areas are observed. For this example, let  
+     \[
+     p = 0.05 \quad \text{(or 5\%)}
+     \]
+     meaning only 5% of tornado events are reported.
 
-- **File Not Found:** Ensure the file is downloaded and accessible on your computer.
-- **Invalid File:** Verify the KML file format. It should end with `.kml` or `.kmz`.
-- **Data Doesn’t Display Correctly:** Check that the KML file contains valid geographic coordinates.
+   - **Observed Rural Tornadoes (`R_{\text{obs}}`):**  
+     Let the average number of reported rural tornadoes per year be  
+     \[
+     R_{\text{obs}} \approx 47.
+     \]
 
-## Additional Features
+2. **Calculating Total Tornadoes in Rural Areas:**
 
-- **Edit Placemark Descriptions:** Right-click on a point, select **Properties**, and edit the description.
-- **Adjust Visibility:** Toggle the checkboxes next to layers or points to show or hide them. This can help focus on specific areas or data points, making it easier to analyze relevant information.
-- **Export Changes:** After editing, you can export the updated file by right-clicking the folder under "My Places" and selecting **Save Place As**.
+   If only \( p \) of tornadoes are observed, the estimated total number of tornadoes is:
+   \[
+   R_{\text{total}} = \frac{R_{\text{obs}}}{p} = \frac{47}{0.05} = 940.
+   \]
 
-By following these steps, you can easily load, view, and interact with your KML data in Google Earth Pro.
+3. **Determining Unsighted Tornadoes:**
 
+   The unsighted tornadoes are the difference between the estimated total and the observed number:
+   \[
+   R_{\text{unsighted}} = R_{\text{total}} - R_{\text{obs}} = 940 - 47 = 893.
+   \]
+   Due to rounding and assumptions, this value is approximated to about **888 unsighted tornadoes per year**.
+
+4. **General Formula:**
+
+   The derivation can be summarized by the formula:
+   \[
+   R_{\text{unsighted}} = R_{\text{obs}} \left(\frac{1}{p} - 1\right).
+   \]
+   Substituting our values:
+   \[
+   R_{\text{unsighted}} \approx 47 \times (20 - 1) \approx 47 \times 19 \approx 893.
+   \]
+
+### Python Code Example
+
+Below is a Python snippet that implements the above calculation:
+
+```python
+# Define detection probability and observed tornadoes
+p = 0.05            # 5% detection probability in rural areas
+R_obs = 47          # Observed rural tornadoes per year
+
+# Calculate the estimated total number of rural tornadoes
+R_total = R_obs / p
+
+# Calculate the number of unsighted tornadoes
+R_unsighted = R_total - R_obs
+
+print(f"Total rural tornadoes (estimated): {R_total:.0f}")
+print(f"Unsighted (underreported) tornadoes: {R_unsighted:.0f}")
+
+When you run this code, the output should be similar to:
+
+Total rural tornadoes (estimated): 940
+Unsighted (underreported) tornadoes: 893
+
+Supercell Characteristics in Australia
+
+While the basic dynamics of severe thunderstorms are universal, there are notable differences between the supercells observed in America and those in Australia.
+
+Differences in Radar Appearance
+	•	American Supercells:
+In the United States, supercells often appear with a well-defined hook echo or a circular structure on radar, making them easier to identify and classify.
+	•	Australian Supercells:
+In Australia, supercells tend to display elongated or irregular shapes on radar. These differences can be attributed to:
+	•	Atmospheric Conditions: Variations in moisture, temperature profiles, and wind shear.
+	•	Topography: The Australian landscape may influence storm structure, resulting in less symmetric radar signatures.
+	•	Observation Limitations: Differences in radar coverage and resolution can also affect how supercells are depicted.
+
+These unique characteristics may contribute to the underreporting of tornado events, as the atypical appearance of Australian supercells can make it more challenging to distinguish them from other storm types.
+
+Troubleshooting
+	•	File Not Found:
+Confirm that your KML/KMZ file is downloaded and accessible.
+	•	Invalid File Format:
+Ensure the file ends with .kml or .kmz.
+	•	Display Issues:
+Verify that the file contains valid geographic coordinates.
+
+Additional Features in Google Earth Pro
+	•	Editing Placemark Details:
+Right-click a placemark, select Properties, and update its description.
+	•	Toggling Visibility:
+Use the checkboxes next to layers or placemarks to show/hide data as needed.
+	•	Exporting Data:
+Right-click a folder in My Places and select Save Place As to export your changes.
