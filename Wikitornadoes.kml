@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  This KML file was compiled from the Wikipedia “List of Australia tornadoes” article.
+  Each Placemark represents one reported tornado event in Australia.
+  (Note: Coordinates are approximate and based on the known location centers.)
+-->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Australian Tornado Events – Full List from Wikipedia</name>
+    <description>
+      This document shows all tornado events recorded on Wikipedia’s “List of Australia tornadoes.”
+      Events range from the 1795 Sydney tornado through events in the 2020s.
+      Coordinates are approximate.
+    </description>
+
+    <!-- Pre-1900 Events -->
+    <Placemark>
+      <name>1. 1795 Sydney Tornado</name>
+      <description>1795 – The earliest recorded tornado in Australia struck Sydney, NSW.</description>
+      <Point>
+        <coordinates>151.2093,-33.8688,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>2. Port Phillip Tornado (29 Jan 1837)</name>
+      <description>1837 – Tornado observed in Central Victoria (using Geelong as proxy).</description>
+      <Point>
+        <coordinates>144.3617,-38.1499,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>3. Parramatta Tornado (21 Dec 1841)</name>
+      <description>1841 – Tornado reported in Parramatta, NSW.</description>
+      <Point>
+        <coordinates>151.0034,-33.8170,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>4. Murrumbidgee Tornado (9 Oct 1844)</name>
+      <description>1844 – Tornado observed in the Murrumbidgee district (using Gundagai approximate location).</description>
+      <Point>
+        <coordinates>148.1500,-35.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>5. Devil's River Tornado (26 Dec 1848)</name>
+      <description>1848 – Tornado swept across farmland near Devil’s River, Victoria.</description>
+      <Point>
+        <coordinates>144.5000,-36.5000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>6. Wee Waa Tornado (26 Nov 1849)</name>
+      <description>1849 – Tornado in Wee Waa, NSW.</description>
+      <Point>
+        <coordinates>150.2167,-30.5333,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>7. Campbell's River Tornado (5 Jan 1852)</name>
+      <description>1852 – Tornado near Campbell’s River, NSW.</description>
+      <Point>
+        <coordinates>152.6500,-32.9333,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>8. Waratah Tornado (16 Sep 1860)</name>
+      <description>1860 – Tornado in the Newcastle/Waratah area, NSW.</description>
+      <Point>
+        <coordinates>151.7000,-32.9000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>9. Chetwynd Tornado (1 Jul 1861)</name>
+      <description>1861 – Large tornado reported at Chetwynd Station in western Victoria.</description>
+      <Point>
+        <coordinates>142.0000,-37.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>10. Hamilton Tornado (22 Oct 1861)</name>
+      <description>1861 – Tornado struck Hamilton, Victoria.</description>
+      <Point>
+        <coordinates>142.2000,-37.7500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>11. Maryborough Tornado (25 Feb 1864)</name>
+      <description>1864 – Tornado struck Maryborough, Victoria.</description>
+      <Point>
+        <coordinates>143.6500,-37.0800,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>12. Beechworth Tornado (26 Oct 1865)</name>
+      <description>1865 – Tornado in Beechworth, Victoria.</description>
+      <Point>
+        <coordinates>146.6833,-36.3100,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>13. Bowen Tornado (22 Feb 1876)</name>
+      <description>1876 – Tornado struck Bowen, Queensland.</description>
+      <Point>
+        <coordinates>146.8500,-20.2000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>14. Nhill Tornado (19 Nov 1897)</name>
+      <description>1897 – Deadly tornado in Nhill, Victoria.</description>
+      <Point>
+        <coordinates>142.1500,-36.4000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15. Nevertire Tornado (29 Dec 1897)</name>
+      <description>1897 – Destructive tornado in Nevertire, NSW.</description>
+      <Point>
+        <coordinates>147.5000,-31.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- 1900s -->
+    <Placemark>
+      <name>16. Narrabri Tornado (2 Dec 1900)</name>
+      <description>1900 – Tornado in Narrabri, NSW.</description>
+      <Point>
+        <coordinates>150.1330,-30.3450,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>17. Narrabri Tornado (6 Jan 1902)</name>
+      <description>1902 – Second Narrabri tornado, NSW.</description>
+      <Point>
+        <coordinates>150.1330,-30.3450,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18. Ballarat Tornado (19 Aug 1909)</name>
+      <description>1909 – Tornado struck Ballarat, Victoria.</description>
+      <Point>
+        <coordinates>143.8503,-37.5622,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>19. Marong Tornado (27 Sep 1911)</name>
+      <description>1911 – Tornado in Marong, Victoria.</description>
+      <Point>
+        <coordinates>144.2000,-36.7000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>20. Brighton Tornado (2 Feb 1918)</name>
+      <description>1918 – Tornado in Brighton (Melbourne suburb), Victoria.</description>
+      <Point>
+        <coordinates>144.9880,-37.9150,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>21. Portarlington Tornado (9 Jan 1921)</name>
+      <description>1921 – Tornado near Portarlington, Victoria.</description>
+      <Point>
+        <coordinates>144.0070,-38.5580,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>22. Geelong Tornado (22 Jul 1926)</name>
+      <description>1926 – Tornado struck Geelong, Victoria.</description>
+      <Point>
+        <coordinates>144.3617,-38.1499,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>23. Dwellingup Tornado (16 Apr 1954)</name>
+      <description>1954 – Tornado in Dwellingup, Western Australia.</description>
+      <Point>
+        <coordinates>116.0200,-32.5365,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>24. Port Macquarie Tornado (6 Jul 1962)</name>
+      <description>1962 – Tornado at Port Macquarie, NSW.</description>
+      <Point>
+        <coordinates>152.9086,-31.4300,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>25. Busselton Tornado (10 Jul 1964)</name>
+      <description>1964 – Tornado in Busselton, Western Australia.</description>
+      <Point>
+        <coordinates>115.3474,-33.6578,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>26. Bulahdelah Tornado (1 Jan 1970)</name>
+      <description>1970 – Tornado reported in Bulahdelah, NSW.</description>
+      <Point>
+        <coordinates>152.1500,-32.5940,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>27. Kin Kin Tornado (14 Aug 1971)</name>
+      <description>1971 – Tornado struck Kin Kin, Queensland.</description>
+      <Point>
+        <coordinates>152.7370,-26.6180,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28. Brisbane Tornado (4 Nov 1973)</name>
+      <description>1973 – Tornado in Brisbane, Queensland.</description>
+      <Point>
+        <coordinates>153.0251,-27.4698,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29. Port Hedland Tornado (17 Dec 1975)</name>
+      <description>1975 – Tornado struck Port Hedland, Western Australia.</description>
+      <Point>
+        <coordinates>118.6068,-20.3107,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30. Sandon Tornado (13 Nov 1976)</name>
+      <description>1976 – Tornado near Sandon (using Ballarat area as proxy), Victoria.</description>
+      <Point>
+        <coordinates>143.8503,-37.5622,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31. Northam Tornado (21 Dec 1977)</name>
+      <description>1977 – Tornado in Northam, Western Australia.</description>
+      <Point>
+        <coordinates>116.6800,-31.6500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>32. Drummoyne/Hunters Hill Tornado (10 Feb 1978)</name>
+      <description>1978 – Tornado in the Sydney suburbs of Drummoyne and Hunters Hill, NSW.</description>
+      <Point>
+        <coordinates>151.2000,-33.8500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>33. Port Macquarie Tornado (13 Sep 1985)</name>
+      <description>1985 – Tornado in Port Macquarie, NSW.</description>
+      <Point>
+        <coordinates>152.9086,-31.4300,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>34. Elsmore Tornadoes (6 Nov 1989)</name>
+      <description>1989 – Tornadoes reported in Elsmore, NSW.</description>
+      <Point>
+        <coordinates>149.5000,-36.7000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>35. SE QLD Tornadoes (24 Dec 1989)</name>
+      <description>1989 – Tornado activity in South East Queensland (near Redcliffe), QLD.</description>
+      <Point>
+        <coordinates>153.0660,-27.1858,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>36. Chisholm Tornado (1990)</name>
+      <description>1990 – Tornado in the Canberra region (Chisholm), ACT.</description>
+      <Point>
+        <coordinates>149.1300,-35.2809,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>37. SE QLD Tornadoes (29 Nov 1992)</name>
+      <description>1992 – Tornadoes reported near Bucca, QLD.</description>
+      <Point>
+        <coordinates>152.0580,-25.7460,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>38. Tucabia Tornado (1 Nov 1993)</name>
+      <description>1993 – Tornado in Tucabia, NSW.</description>
+      <Point>
+        <coordinates>153.4000,-28.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>39. Blue Mountains Tornado (20 Nov 1994)</name>
+      <description>1994 – Tornado in the Blue Mountains region, NSW.</description>
+      <Point>
+        <coordinates>150.3000,-33.7000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>40. Chatswood Tornado (20 Nov 1994)</name>
+      <description>1994 – Tornado in Chatswood, NSW.</description>
+      <Point>
+        <coordinates>151.2000,-33.8000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>41. Merimbula Tornado (16 Apr 1995)</name>
+      <description>1995 – Tornado struck Merimbula, NSW.</description>
+      <Point>
+        <coordinates>149.9000,-36.9000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>42. NSW Tornado Outbreak (29 Sep 1996)</name>
+      <description>1996 – Tornado outbreak in Central NSW (using Armidale as proxy).</description>
+      <Point>
+        <coordinates>151.6650,-30.5050,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>43. Perth Tornado (15 Jul 1996)</name>
+      <description>1996 – Tornado in Perth, WA.</description>
+      <Point>
+        <coordinates>115.8605,-31.9505,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>44. Fremantle Tornado (25 Aug 1999)</name>
+      <description>1999 – Tornado in Fremantle, WA.</description>
+      <Point>
+        <coordinates>115.7439,-32.0569,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- 2000s -->
+    <Placemark>
+      <name>45. Greystanes Tornado (3 Nov 2000)</name>
+      <description>2000 – Tornado in Greystanes (Sydney area), NSW.</description>
+      <Point>
+        <coordinates>150.9800,-33.8600,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>46. South Coast Tornado (26 Dec 2001)</name>
+      <description>2001 – Tornado off the south coast of NSW (near Eden).</description>
+      <Point>
+        <coordinates>149.9000,-37.0667,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>47. SA Tornado Outbreak (18 May 2002)</name>
+      <description>2002 – Tornado outbreak in South Australia near Coulta.</description>
+      <Point>
+        <coordinates>139.9500,-35.1200,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>48. Niangala Tornado (13 Oct 2002)</name>
+      <description>2002 – Tornado in Niangala, NSW.</description>
+      <Point>
+        <coordinates>152.2000,-30.2500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>49. Bendigo Tornado (18 May 2003)</name>
+      <description>2003 – Tornado in Bendigo, Victoria.</description>
+      <Point>
+        <coordinates>144.2800,-36.7600,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>50. Grampians Tornado (4 Jan 2004)</name>
+      <description>2004 – Tornado in the Grampians region, Victoria.</description>
+      <Point>
+        <coordinates>142.0000,-37.2500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>51. Noble Park Tornado (9 Jun 2004)</name>
+      <description>2004 – Tornado in Noble Park (Melbourne suburb), Victoria.</description>
+      <Point>
+        <coordinates>145.1333,-37.9833,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>52. Coonabarabran Tornado (20 Jan 2005)</name>
+      <description>2005 – Tornado in Coonabarabran, NSW.</description>
+      <Point>
+        <coordinates>149.7000,-31.3200,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>53. Broken Hill Tornado (6 Nov 2005)</name>
+      <description>2005 – Tornado in Broken Hill, NSW.</description>
+      <Point>
+        <coordinates>141.4670,-31.9530,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>54. La Perouse Tornado (4 Aug 2006)</name>
+      <description>2006 – Tornado in La Perouse, NSW.</description>
+      <Point>
+        <coordinates>151.2297,-33.9111,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>55. Leschenault Tornado (7 Aug 2006)</name>
+      <description>2006 – Tornado in Leschenault, WA (near Bunbury).</description>
+      <Point>
+        <coordinates>115.7639,-33.6411,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>56. Kakadu Tornado (1 Mar 2007)</name>
+      <description>2007 – Tornado event in Kakadu National Park, NT.</description>
+      <Point>
+        <coordinates>132.5000,-12.5000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>57. You Yangs Landspout (14 May 2007)</name>
+      <description>2007 – Landspout tornado in the You Yangs region, Victoria.</description>
+      <Point>
+        <coordinates>144.6333,-37.8000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>58. Moana Tornado (21 May 2007)</name>
+      <description>2007 – Tornado in Moana, South Australia.</description>
+      <Point>
+        <coordinates>138.8000,-34.9000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>59. Dunoon Tornado (26 Oct 2007)</name>
+      <description>2007 – Tornado near Dunoon, NSW.</description>
+      <Point>
+        <coordinates>153.4333,-28.6667,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>60. "Ballarat" Tornado (20 Dec 2007)</name>
+      <description>2007 – Brief tornado event near Ballarat, Victoria.</description>
+      <Point>
+        <coordinates>143.8503,-37.5622,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>61. Perth Tornado (9 Jun 2008)</name>
+      <description>2008 – Tornado in Perth, WA.</description>
+      <Point>
+        <coordinates>115.8605,-31.9505,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>62. Nimmitabel Tornado (23 Dec 2008)</name>
+      <description>2008 – Tornado event in Nimmitabel, NSW.</description>
+      <Point>
+        <coordinates>149.9333,-36.5333,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- 2010s -->
+    <Placemark>
+      <name>63. Atherton Tornado (7 Feb 2010)</name>
+      <description>2010 – Tornado in Atherton, Queensland.</description>
+      <Point>
+        <coordinates>145.5000,-17.2500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>64. Lennox Head Waterspout/Tornado (3 Jun 2010)</name>
+      <description>2010 – Tornado/waterspout at Lennox Head, NSW.</description>
+      <Point>
+        <coordinates>153.3000,-28.8500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>65. Trawalla Tornado (30 Jul 2010)</name>
+      <description>2010 – Tornado in Trawalla, Victoria.</description>
+      <Point>
+        <coordinates>143.8000,-37.2500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>66. Penola Tornado (31 Jul 2010)</name>
+      <description>2010 – Tornado in Penola, South Australia.</description>
+      <Point>
+        <coordinates>140.4000,-37.4000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>67. Moama Tornado (10 Aug 2010)</name>
+      <description>2010 – Tornado in Moama, NSW.</description>
+      <Point>
+        <coordinates>146.3500,-36.2500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>68. Mackay Tornado (25 Dec 2010)</name>
+      <description>2010 – Tornado event in Mackay, Queensland.</description>
+      <Point>
+        <coordinates>149.1869,-21.1411,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>69. Whitton Tornado (1 Feb 2011)</name>
+      <description>2011 – Tornado in Whitton, NSW.</description>
+      <Point>
+        <coordinates>150.0000,-34.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>70. Yellow Water Billabong Tornado (11 Feb 2011)</name>
+      <description>2011 – Tornado or tornadic waterspout in the Kakadu area, NT.</description>
+      <Point>
+        <coordinates>132.5000,-12.5000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>71. Karratha Tornado (21 Feb 2011)</name>
+      <description>2011 – Tornado in Karratha, Western Australia.</description>
+      <Point>
+        <coordinates>117.4500,-20.7100,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>72. Magpie Valley Tornado (20 Apr 2011)</name>
+      <description>2011 – Tornado near Magpie Valley (Ballarat region), Victoria.</description>
+      <Point>
+        <coordinates>143.8503,-37.5622,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>73. Canning Vale Tornado (20 May 2011)</name>
+      <description>2011 – Tornado in Canning Vale, Western Australia.</description>
+      <Point>
+        <coordinates>115.9000,-32.1000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>74. Red Rock Tornado (14 Jun 2011)</name>
+      <description>2011 – Tornado in Red Rock, NSW.</description>
+      <Point>
+        <coordinates>150.0000,-33.6000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>75. Bellbridge Tornado (9 Nov 2011)</name>
+      <description>2011 – Tornado in Bellbridge, Victoria.</description>
+      <Point>
+        <coordinates>146.2000,-36.6000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>76. Bacchus Marsh Tornado (25 Dec 2011)</name>
+      <description>2011 – Tornado in Bacchus Marsh, Victoria.</description>
+      <Point>
+        <coordinates>144.7500,-37.7000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>77. Bredbo Tornado (20 Jan 2012)</name>
+      <description>2012 – Tornado in Bredbo, NSW.</description>
+      <Point>
+        <coordinates>149.0000,-35.5000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>78. Townsville Tornado (20 Mar 2012)</name>
+      <description>2012 – Tornado in Townsville, Queensland.</description>
+      <Point>
+        <coordinates>146.8180,-19.2580,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>79. Black Range Tornado (31 May 2012)</name>
+      <description>2012 – Tornado near the Black Range (Stawell area), Victoria.</description>
+      <Point>
+        <coordinates>142.0000,-37.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>80. Perth Tornado Outbreak (7 Jun 2012)</name>
+      <description>2012 – Tornado outbreak in the Perth region, WA.</description>
+      <Point>
+        <coordinates>115.8605,-31.9505,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>81. Southern Tasmania Tornado Outbreak (9 Nov 2012)</name>
+      <description>2012 – Tornado outbreak in Southern Tasmania (using Hobart as proxy).</description>
+      <Point>
+        <coordinates>147.3272,-42.8821,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>82. Central Queensland Tornado Outbreak (26–27 Jan 2013)</name>
+      <description>2013 – Tornado outbreak in Central Queensland (Bundaberg region), QLD.</description>
+      <Point>
+        <coordinates>152.3500,-24.8667,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>83. Ballarat Tornado (31 Jan 2013)</name>
+      <description>2013 – Tornado in Ballarat, Victoria.</description>
+      <Point>
+        <coordinates>143.8503,-37.5622,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>84. Sydney-Illawarra Tornado Outbreak (23–24 Feb 2013)</name>
+      <description>2013 – Tornado outbreak in the Sydney-Illawarra region, NSW.</description>
+      <Point>
+        <coordinates>151.2093,-33.8688,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>85. Eastern Victoria Tornado Outbreak (21 Mar 2013)</name>
+      <description>2013 – Tornado outbreak in Eastern Victoria (using Shepparton as proxy), VIC.</description>
+      <Point>
+        <coordinates>145.5000,-36.4000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>86. Ararat Tornado (22 Oct 2013)</name>
+      <description>2013 – Tornado in Ararat, Victoria.</description>
+      <Point>
+        <coordinates>142.9000,-37.3000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>87. Hornsby CBD Tornado (18 Nov 2013)</name>
+      <description>2013 – Tornado in Hornsby CBD, NSW.</description>
+      <Point>
+        <coordinates>151.1000,-33.7000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>88. New England Tornadoes (23 Nov 2013)</name>
+      <description>2013 – Tornadoes reported in the New England region, NSW.</description>
+      <Point>
+        <coordinates>150.0000,-30.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>89. Pakenham Tornado (14 Jun 2014)</name>
+      <description>2014 – Tornado observed at Pakenham, Victoria.</description>
+      <Point>
+        <coordinates>145.6333,-38.1000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>90. Perth Metro Tornadoes (14 Jul 2014)</name>
+      <description>2014 – Tornado activity in the Perth metropolitan area, WA.</description>
+      <Point>
+        <coordinates>115.8605,-31.9505,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>91. Forrestfield Tornado (7 Sep 2014)</name>
+      <description>2014 – Tornado reported in Forrestfield, WA.</description>
+      <Point>
+        <coordinates>115.9000,-31.9000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>92. Round Hill Tornado (28 Jul 2014)</name>
+      <description>2014 – Tornado that damaged Round Hill in Tasmania (using Burnie area as proxy).</description>
+      <Point>
+        <coordinates>145.0000,-41.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>93. Gol Gol Tornado (22 Nov 2014)</name>
+      <description>2014 – Tornado near Gol Gol (rural NSW/VIC region, approximate location).</description>
+      <Point>
+        <coordinates>141.5000,-36.5000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>94. Bombala Tornado (24 Jan 2015)</name>
+      <description>2015 – Tornado in Bombala, NSW.</description>
+      <Point>
+        <coordinates>149.1000,-36.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>95. Creswick Tornado (13 Feb 2015)</name>
+      <description>2015 – Tornado in Creswick, Victoria.</description>
+      <Point>
+        <coordinates>143.8503,-36.8000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>96. Pokolbin Tornado (15 Feb 2015)</name>
+      <description>2015 – Tornado in Pokolbin, NSW.</description>
+      <Point>
+        <coordinates>151.7000,-32.7000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>97. Shepparton Tornado (23 Feb 2015)</name>
+      <description>2015 – Tornado in Shepparton, Victoria.</description>
+      <Point>
+        <coordinates>145.4000,-36.4000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>98. Daylesford Tornado (28 Feb 2015)</name>
+      <description>2015 – Tornado from Eganstown to Daylesford, Victoria.</description>
+      <Point>
+        <coordinates>144.2500,-37.2500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>99. Karratha Tornado (1 May 2015)</name>
+      <description>2015 – Tornado reported near Karratha, WA.</description>
+      <Point>
+        <coordinates>117.4500,-20.7100,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>100. Grafton Tornado (13 Jun 2015)</name>
+      <description>2015 – Tornado in Grafton, NSW.</description>
+      <Point>
+        <coordinates>152.9250,-29.7000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>101. Quambone Tornado (11 Jul 2015)</name>
+      <description>2015 – Tornado affecting Quambone, Gulargambone and Armatree, NSW.</description>
+      <Point>
+        <coordinates>148.8000,-30.2000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>102. Burrumbuttock Tornado (11 Jul 2015)</name>
+      <description>2015 – Tornado damaged homes at Burrumbuttock, NSW.</description>
+      <Point>
+        <coordinates>147.8000,-35.2000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>103. Lake Hume Tornado-Waterspout (24 Jul 2015)</name>
+      <description>2015 – Waterspout/tornado on Lake Hume, Victoria.</description>
+      <Point>
+        <coordinates>145.4000,-36.1000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>104. West Ulverstone Tornado (10 Aug 2015)</name>
+      <description>2015 – Tornado in Ulverstone, Tasmania.</description>
+      <Point>
+        <coordinates>146.3000,-41.1500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>105. Dubbo Tornado (24 Aug 2015)</name>
+      <description>2015 – Tornado impacting Dubbo, NSW.</description>
+      <Point>
+        <coordinates>148.6000,-32.2500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>106. Usher Tornado (29 Aug 2015)</name>
+      <description>2015 – Tornado in Usher (Bunbury area), WA.</description>
+      <Point>
+        <coordinates>115.7000,-33.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>107. Cranbrook Tornado (10 Sep 2015)</name>
+      <description>2015 – Tornado in Cranbrook, WA.</description>
+      <Point>
+        <coordinates>116.0000,-33.5000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>108. Upper Caboolture Tornado (29 Sep 2015)</name>
+      <description>2015 – Tornado near Upper Caboolture, Queensland.</description>
+      <Point>
+        <coordinates>152.9500,-27.1000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>109. Darling Downs Tornadoes (14 Oct 2015)</name>
+      <description>2015 – Tornadoes reported in the Darling Downs region, QLD.</description>
+      <Point>
+        <coordinates>151.5000,-27.8000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>110. Bundella Tornado (22 Oct 2015)</name>
+      <description>2015 – Tornado in Bundella, NSW.</description>
+      <Point>
+        <coordinates>150.8000,-32.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>111. Merrywinebone Tornado (27 Oct 2015)</name>
+      <description>2015 – Tornado observed at Merrywinebone, NSW.</description>
+      <Point>
+        <coordinates>150.9000,-31.9000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>112. Echuca Tornado (31 Oct 2015)</name>
+      <description>2015 – Tornado in Echuca, Victoria.</description>
+      <Point>
+        <coordinates>144.2150,-36.1250,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>113. Northern Victoria Tornado (1 Nov 2015)</name>
+      <description>2015 – Significant tornado in northern Victoria (using Nathalia as proxy).</description>
+      <Point>
+        <coordinates>145.0000,-35.5000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>114. Monarto Tornado (4 Nov 2015)</name>
+      <description>2015 – Tornado near Monarto, South Australia.</description>
+      <Point>
+        <coordinates>139.0000,-35.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>115. Melbourne Tornado (5 Nov 2015)</name>
+      <description>2015 – Tornado reported in Melbourne’s outer northern suburbs, Victoria.</description>
+      <Point>
+        <coordinates>144.9631,-37.8136,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>116. KCGM Super Pit Tornado (4 Dec 2015)</name>
+      <description>2015 – Tornado in Kalgoorlie-Boulder, WA.</description>
+      <Point>
+        <coordinates>117.7833,-30.7500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>117. Kurnell Tornado (16 Dec 2015)</name>
+      <description>2015 – Tornado in Kurnell, NSW.</description>
+      <Point>
+        <coordinates>151.2000,-33.9500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>118. Bathurst Tornado (16 Dec 2015)</name>
+      <description>2015 – Tornado in Bathurst, NSW.</description>
+      <Point>
+        <coordinates>149.6333,-33.4200,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>119. Bowenville Tornado (23 Dec 2015)</name>
+      <description>2015 – Tornado in Bowenville, Queensland.</description>
+      <Point>
+        <coordinates>151.0000,-26.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Mid North and Flinders Ranges Outbreak and later 2010s -->
+    <Placemark>
+      <name>120. Mid North & Flinders Ranges Tornado Outbreak (28 Sep 2016)</name>
+      <description>2016 – Tornado outbreak in the Mid North/Flinders Ranges region, SA (approximate location).</description>
+      <Point>
+        <coordinates>139.5000,-33.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>121. Broken Hill Tornado (11 Nov 2016)</name>
+      <description>2016 – Tornado in Broken Hill, NSW.</description>
+      <Point>
+        <coordinates>141.4670,-31.9530,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>122. Bentleigh Tornado (19 Feb 2017)</name>
+      <description>2017 – Tornado in Bentleigh East, Victoria.</description>
+      <Point>
+        <coordinates>145.1000,-37.9500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>123. Brisbane Airport Tornado (17 Mar 2017)</name>
+      <description>2017 – Tornado captured at Brisbane Airport, Queensland.</description>
+      <Point>
+        <coordinates>153.1000,-27.4000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>124. Scarborough Waterspout (22 Jul 2017)</name>
+      <description>2017 – Waterspout/tornado observed in Scarborough, WA.</description>
+      <Point>
+        <coordinates>115.7000,-31.9000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>125. Perth Tornado (31 Jul 2017)</name>
+      <description>2017 – Tornado in Perth, WA.</description>
+      <Point>
+        <coordinates>115.8605,-31.9505,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>126. River Heads Tornado (1 Oct 2017)</name>
+      <description>2017 – Tornado at River Heads, Queensland.</description>
+      <Point>
+        <coordinates>153.0333,-25.2833,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>127. Darling Downs Tornado (26 Dec 2017)</name>
+      <description>2017 – Tornado in the Darling Downs region, Queensland.</description>
+      <Point>
+        <coordinates>151.5000,-27.8000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>128. Tansey &amp; Coolabunia Tornadoes (12 Oct 2018)</name>
+      <description>2018 – Tornadoes in Tansey and Coolabunia, Queensland.</description>
+      <Point>
+        <coordinates>151.2500,-27.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>129. Axe Creek Tornado (29 Jun 2019)</name>
+      <description>2019 – Tornado destroyed a house in Axe Creek, Victoria.</description>
+      <Point>
+        <coordinates>144.0000,-36.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>130. Peechelba Tornado (6 Sep 2019)</name>
+      <description>2019 – Tornado caused loss of livestock in Peechelba, Victoria.</description>
+      <Point>
+        <coordinates>146.0000,-36.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- 2020s -->
+    <Placemark>
+      <name>131. Waurn Ponds Tornado (20 May 2020)</name>
+      <description>2020 – Tornado passed through Waurn Ponds, Victoria.</description>
+      <Point>
+        <coordinates>144.8000,-38.3500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>132. Horsham Tornado (7 Dec 2020)</name>
+      <description>2020 – Tornado in Horsham, Victoria.</description>
+      <Point>
+        <coordinates>142.1500,-36.7000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>133. Chester Hill Tornado (20 Mar 2021)</name>
+      <description>2021 – Tornado in Chester Hill, NSW.</description>
+      <Point>
+        <coordinates>150.9833,-33.9333,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>134. Bathurst Tornado (30 Sep 2021)</name>
+      <description>2021 – Tornado in Bathurst, NSW.</description>
+      <Point>
+        <coordinates>149.6333,-33.4200,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>135. Armidale Tornado (14 Oct 2021)</name>
+      <description>2021 – Tornado in Armidale, NSW.</description>
+      <Point>
+        <coordinates>151.6620,-30.5080,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>136. Blue Haven Tornado (7 Dec 2021)</name>
+      <description>2021 – Tornado in Blue Haven, NSW (approximate location).</description>
+      <Point>
+        <coordinates>150.0000,-33.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>137. Bombala Tornado (15 Jan 2022)</name>
+      <description>2022 – Tornado in Bombala, NSW.</description>
+      <Point>
+        <coordinates>149.1000,-36.0000,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>138. Gold Coast Tornado (25 Dec 2023)</name>
+      <description>2023 – Tornado in the Gold Coast region, Queensland.</description>
+      <Point>
+        <coordinates>153.4000,-27.9700,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
